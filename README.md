@@ -13,7 +13,7 @@ cloudproject.sophiabeebe.com **This link will not be valid. I am shutting the si
 
 [Software Demo Video]([[https://youtu.be/zfPN8i5sXMo])
 
-[What is the Cloud?]([[https://youtu.be/zfPN8i5sXMo])
+[What is the Cloud?]([[https://youtu.be/zfPN8i5sXMo]
 
 
 
