@@ -11,7 +11,7 @@ This project was developed to learn and demonstrate how to design, deploy, and m
 cloudproject.sophiabeebe.com **This link will not be valid. I am shutting the site down because it costs money to keep up. Please watch the youtube video to see my project.**
 
 
-[Software Demo Video]([[http://youtube.link.goes.here]](https://youtu.be/zfPN8i5sXMo))
+[Software Demo Video]([[https://youtu.be/zfPN8i5sXMo]](https://youtu.be/zfPN8i5sXMo))
 
 # Cloud Database
 The project uses Amazon Relational Database Service (RDS) to host the MySQL database for the WordPress backend.
@@ -30,21 +30,36 @@ The environment was built within a Virtual Private Cloud (VPC) to provide a secu
 
 Tools Used
 Amazon VPC: Configured subnets, route tables, and internet gateways to manage network communication.
-NAT Gateway: Allowed secure internet access for private subnets.
+
+
+NAT Gateway:
+A NAT gateway in AWS (Amazon Web Services) is a managed service that allows instances within a private subnet of a Virtual Private Cloud (VPC) to securely access the internet by translating their private IP addresses to a public IP address, while preventing external services from directly initiating connections to those private instances, effectively keeping them hidden from the public internet; essentially acting as a network address translation (NAT) device within your AWS network
+![3 _Nat_Gateway_Reference_Architecture](https://github.com/user-attachments/assets/7ef68423-678b-44f6-884a-fe3224f067ca)
+
+
 EC2 Instances: Hosted WordPress and the application logic.
+
+
 EFS: Provided shared file storage across multiple EC2 instances.
+
+
 Application Load Balancer: Distributed incoming traffic among instances.
+
+
 Autoscaling Group: Ensured elasticity by dynamically adjusting the number of instances.
+
+
 Certificate Manager: Managed SSL/TLS certificates.
+
+
 Route 53: Handled DNS and domain name management.
 
 VPC Enviroment
+Amazon Virtual Private Cloud is a commercial cloud computing service that provides a virtual private cloud, by provisioning a logically isolated section of Amazon Web Services Cloud. 
 ![2 _VPC_Reference_Architecture](https://github.com/user-attachments/assets/8aa772fb-c2d2-4c74-bd4b-52552a459c87)
 
-{Describe the tools that you used to develop the software}
-NAT Gateway Structure
-![3 _Nat_Gateway_Reference_Architecture](https://github.com/user-attachments/assets/7ef68423-678b-44f6-884a-fe3224f067ca)
 WordPress
+
 ![4 WordPress_SG](https://github.com/user-attachments/assets/9dca07b3-e598-4dac-acc6-52428845579d)
 ![5 WordPress_RDS](https://github.com/user-attachments/assets/1332f075-48dc-4e7b-8265-46f8e46f51b2)
 
