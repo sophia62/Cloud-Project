@@ -11,7 +11,7 @@ This project was developed to learn and demonstrate how to design, deploy, and m
 cloudproject.sophiabeebe.com **This link will not be valid. I am shutting the site down because it costs money to keep up. Please watch the youtube video to see my project.**
 
 
-[Software Demo Video]([[https://youtu.be/zfPN8i5sXMo]](https://youtu.be/zfPN8i5sXMo))
+[Software Demo Video]([[https://youtu.be/zfPN8i5sXMo])
 
 # Cloud Database
 The project uses Amazon Relational Database Service (RDS) to host the MySQL database for the WordPress backend.
