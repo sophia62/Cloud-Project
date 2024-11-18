@@ -11,9 +11,8 @@ This project was developed to learn and demonstrate how to design, deploy, and m
 cloudproject.sophiabeebe.com **This link will not be valid. I am shutting the site down because it costs money to keep up. Please watch the youtube video to see my project.**
 
 
-[Software Demo Video]([[https://youtu.be/zfPN8i5sXMo])
 
-[What is the Cloud?]([[https://youtu.be/zfPN8i5sXMo]
+[Software Demo Video]([[https://youtu.be/zfPN8i5sXMo]
 
 
 
@@ -74,9 +73,9 @@ WordPress itself is written in PHP, and the deployment was managed using AWS Man
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Hosting AWS]([http://url.link.goes.here](https://aws.amazon.com/websites/))
-- [What is a Database?]([http://url.link.goes.here](https://www.oracle.com/database/what-is-database/))
-- [What is the Cloud?]([[http://url.link.goes.here](https://www.oracle.com/database/what-is-database/](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/))
+- [Web Hosting AWS]([[https://aws.amazon.com/websites/]
+- [What is a Database?]9[[https://www.oracle.com/database/what-is-database/]
+- [What is the Cloud?]([[https://www.oracle.com/database/what-is-database/](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/]
 
 # Future Work
 
