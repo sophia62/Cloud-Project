@@ -13,6 +13,11 @@ cloudproject.sophiabeebe.com **This link will not be valid. I am shutting the si
 
 [Software Demo Video]([[https://youtu.be/zfPN8i5sXMo])
 
+[What is the Cloud?]([[https://youtu.be/zfPN8i5sXMo])
+
+
+
+
 # Cloud Database
 The project uses Amazon Relational Database Service (RDS) to host the MySQL database for the WordPress backend.
 
@@ -71,7 +76,7 @@ WordPress itself is written in PHP, and the deployment was managed using AWS Man
 
 - [Web Hosting AWS]([http://url.link.goes.here](https://aws.amazon.com/websites/))
 - [What is a Database?]([http://url.link.goes.here](https://www.oracle.com/database/what-is-database/))
-- - [What is the Cloud?]([[http://url.link.goes.here](https://www.oracle.com/database/what-is-database/](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/))
+- [What is the Cloud?]([[http://url.link.goes.here](https://www.oracle.com/database/what-is-database/](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/))
 
 # Future Work
 
